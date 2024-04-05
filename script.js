@@ -70,6 +70,24 @@ var users =[
         bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus fugiat nostrum illum consectetur iusto voluptas beatae at delectus odit placeat cupiditate neque.",
         isFriend: null
     },
+    {
+        profilePic:"image/yogeshProfilePic2.jpg",
+        displayPic:"image/yogeshDisplayPic1.jpg",
+        pendingMessage:21,
+        location: "Uttar Pradesh, India",
+        name: "Yogesh",
+        age: 22,
+        interests: [{
+            icon:  `<i class="text-sm ri-music-2-fill"></i>`,
+            interest: "Music"
+        },
+        {
+            icon:  `<i class="ri-quill-pen-fill"></i>`,
+            interest: "Writer"
+        }],
+        bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus fugiat nostrum illum consectetur iusto voluptas beatae at delectus odit placeat cupiditate neque.",
+        isFriend: null
+    },
 ];
 
 function select(elem){
