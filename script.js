@@ -88,6 +88,24 @@ var users =[
         bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus fugiat nostrum illum consectetur iusto voluptas beatae at delectus odit placeat cupiditate neque.",
         isFriend: null
     },
+    {
+        profilePic:"image/yogeshDisplayPic1.jpg",
+        displayPic:"image/yogeshProfilePic2.jpg",
+        pendingMessage:21,
+        location: "Uttar Pradesh, India",
+        name: "Yogesh Kumar",
+        age: 22,
+        interests: [{
+            icon:  `<i class="ri-quill-pen-fill"></i>`,
+            interest: "Writer"
+        },
+        {
+            icon:  `<i class="text-sm ri-music-2-fill"></i>`,
+            interest: "Music"
+        }],
+        bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        isFriend: null
+    },
 ];
 
 function select(elem){
