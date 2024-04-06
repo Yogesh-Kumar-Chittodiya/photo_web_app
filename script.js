@@ -106,6 +106,78 @@ var users =[
         bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
         isFriend: null
     },
+    {
+        profilePic:"image/yogeshDisplayPic2.jpg",
+        displayPic:"image/yogeshDisplayPic2.jpg",
+        pendingMessage:21,
+        location: "Uttar Pradesh, India",
+        name: "Yogesh Kumar",
+        age: 22,
+        interests: [{
+            icon:  `<i class="ri-quill-pen-fill"></i>`,
+            interest: "Writer"
+        },
+        {
+            icon:  `<i class="text-sm ri-music-2-fill"></i>`,
+            interest: "Music"
+        }],
+        bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        isFriend: null
+    },
+    {
+        profilePic:"image/manojDisplayPic1.jpg",
+        displayPic:"image/manojDisplayPic1.jpg",
+        pendingMessage:21,
+        location: "Uttar Pradesh, India",
+        name: "Manoj Kumar",
+        age: 22,
+        interests: [{
+            icon:  `<i class="ri-quill-pen-fill"></i>`,
+            interest: "Writer"
+        },
+        {
+            icon:  `<i class="text-sm ri-music-2-fill"></i>`,
+            interest: "Music"
+        }],
+        bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        isFriend: null
+    },
+    {
+        profilePic:"image/yogeshDisplayPic3.jpg",
+        displayPic:"image/yogeshDisplayPic3.jpg",
+        pendingMessage:21,
+        location: "Uttar Pradesh, India",
+        name: "Yogesh Kumar",
+        age: 22,
+        interests: [{
+            icon:  `<i class="ri-quill-pen-fill"></i>`,
+            interest: "Writer"
+        },
+        {
+            icon:  `<i class="text-sm ri-music-2-fill"></i>`,
+            interest: "Music"
+        }],
+        bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        isFriend: null
+    },
+    {
+        profilePic:"image/yogeshDisplayPic4.jpg",
+        displayPic:"image/yogeshDisplayPic4.jpg",
+        pendingMessage:21,
+        location: "Uttar Pradesh, India",
+        name: "Yogesh Kumar",
+        age: 22,
+        interests: [{
+            icon:  `<i class="ri-quill-pen-fill"></i>`,
+            interest: "Writer"
+        },
+        {
+            icon:  `<i class="text-sm ri-music-2-fill"></i>`,
+            interest: "Music"
+        }],
+        bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        isFriend: null
+    },
 ];
 
 function select(elem){
